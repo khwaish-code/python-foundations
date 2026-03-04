@@ -1,0 +1,6 @@
+# Print numbers from 1 to 5
+
+count = 1
+while count <= 51:
+    print(count)
+    count += 1
